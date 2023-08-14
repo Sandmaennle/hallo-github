@@ -22,3 +22,18 @@ while (s != "n")
     Console.WriteLine("Möchten sie nochmal eine Zahl eingeben y/n");
     s = Console.ReadLine();
 }
+
+Console.WriteLine("Möchten Sie eine Bewertung abgeben? y/n");
+
+string s1 = Console.ReadLine();
+
+if (s1 == "y")
+{
+    Console.WriteLine("Würden Sie das Programm weiterempfehlen? y/n");
+
+    if (s1 == "n")
+    {
+        Console.WriteLine("Drecksack!")
+    }
+    else { Console.WriteLine("Mr. Niceguy!!!")}
+}
