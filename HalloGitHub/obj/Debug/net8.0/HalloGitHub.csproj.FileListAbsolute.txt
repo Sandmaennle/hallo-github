@@ -1,0 +1,15 @@
+C:\Users\Sandmaennle\Source\Repos\Sandmaennle\hallo-github\HalloGitHub\obj\Debug\net8.0\HalloGitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandmaennle\Source\Repos\Sandmaennle\hallo-github\HalloGitHub\obj\Debug\net8.0\HalloGitHub.AssemblyInfoInputs.cache
+C:\Users\Sandmaennle\Source\Repos\Sandmaennle\hallo-github\HalloGitHub\obj\Debug\net8.0\HalloGitHub.AssemblyInfo.cs
+C:\Users\Sandmaennle\Source\Repos\Sandmaennle\hallo-github\HalloGitHub\obj\Debug\net8.0\HalloGitHub.csproj.CoreCompileInputs.cache
+C:\Users\Sandmaennle\Source\Repos\Sandmaennle\hallo-github\HalloGitHub\obj\Debug\net8.0\HalloGitHub.sourcelink.json
+C:\Users\Sandmaennle\Source\Repos\Sandmaennle\hallo-github\HalloGitHub\bin\Debug\net8.0\HalloGitHub.exe
+C:\Users\Sandmaennle\Source\Repos\Sandmaennle\hallo-github\HalloGitHub\bin\Debug\net8.0\HalloGitHub.deps.json
+C:\Users\Sandmaennle\Source\Repos\Sandmaennle\hallo-github\HalloGitHub\bin\Debug\net8.0\HalloGitHub.runtimeconfig.json
+C:\Users\Sandmaennle\Source\Repos\Sandmaennle\hallo-github\HalloGitHub\bin\Debug\net8.0\HalloGitHub.dll
+C:\Users\Sandmaennle\Source\Repos\Sandmaennle\hallo-github\HalloGitHub\bin\Debug\net8.0\HalloGitHub.pdb
+C:\Users\Sandmaennle\Source\Repos\Sandmaennle\hallo-github\HalloGitHub\obj\Debug\net8.0\HalloGitHub.dll
+C:\Users\Sandmaennle\Source\Repos\Sandmaennle\hallo-github\HalloGitHub\obj\Debug\net8.0\refint\HalloGitHub.dll
+C:\Users\Sandmaennle\Source\Repos\Sandmaennle\hallo-github\HalloGitHub\obj\Debug\net8.0\HalloGitHub.pdb
+C:\Users\Sandmaennle\Source\Repos\Sandmaennle\hallo-github\HalloGitHub\obj\Debug\net8.0\HalloGitHub.genruntimeconfig.cache
+C:\Users\Sandmaennle\Source\Repos\Sandmaennle\hallo-github\HalloGitHub\obj\Debug\net8.0\ref\HalloGitHub.dll
