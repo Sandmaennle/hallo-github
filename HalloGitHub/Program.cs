@@ -31,9 +31,13 @@ if (s1 == "y")
 {
     Console.WriteLine("Würden Sie das Programm weiterempfehlen? y/n");
 
+    s1 = Console.ReadLine();
+
     if (s1 == "n")
     {
-        Console.WriteLine("Drecksack!")
+        Console.WriteLine("Drecksack!");
     }
-    else { Console.WriteLine("Mr. Niceguy!!!")}
+    else { Console.WriteLine("Mr. Niceguy!!!"); }
 }
+
+Console.ReadKey();
